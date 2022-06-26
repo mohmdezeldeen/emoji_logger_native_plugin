@@ -1,0 +1,22 @@
+PODS:
+  - empji_logger_native (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - empji_logger_native (from `.symlinks/plugins/empji_logger_native/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  empji_logger_native:
+    :path: ".symlinks/plugins/empji_logger_native/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  empji_logger_native: b54051bb55ea9daa91e51778df0399648fbd8aff
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.3
