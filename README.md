@@ -1,0 +1,1 @@
+# emoji_logger_native_plugin
